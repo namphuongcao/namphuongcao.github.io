@@ -1,12 +1,12 @@
 const CONFIG = {
     introTitle: 'Heellloo Lam Xinh Gái!',
     introDesc: `Mình là Nam đêyyyy ♥  `,
-    btnIntro: 'Mạnh Dạn Ấn ĐI Ạ ^^',
+    btnIntro: 'Mạnh Dạn Ấn Đi Nè ^^',
     title: 'Em Sẽ Mãi Ở Bên Anh Nhé !!!!! 😙',
     desc: ' ♥ ',
    
-    btnYes: 'Có ♥',
-    btnNo: 'Không ♦',
+    btnYes: 'Yes ♥',
+    btnNo: 'Noo ♦',
     question:'Ý Em Saooooooo',
     btnReply: 'Send',
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
